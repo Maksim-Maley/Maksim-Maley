@@ -10,7 +10,7 @@ I enjoy building practical projects, exploring new technologies, and turning ide
 
 ## 🚀 About Me
 
-- 💻 Learning and developing with **C++ and C#**
+- 💻 Learning and developing with **C++ "and C#"**
 - ⚙️ Exploring **systems programming, Windows APIs, and Unix/Linux**
 - 🎮 Interested in **Unreal Engine and game development**
 - 🛠️ Building practical projects to improve my programming skills
